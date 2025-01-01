@@ -1,0 +1,15 @@
+{
+    "os-remap": {
+        "Min": [
+            null,
+            null,
+            null
+        ],
+        "Max": [
+            null,
+            null,
+            null
+        ],
+        "Frames": 40
+    }
+}
